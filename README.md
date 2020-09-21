@@ -1,4 +1,4 @@
-# slow_matlab_sparse
+# Matlab's sparse function is slow
 The function demonstrate that sparse function in Matlab is much slower than than scipy.sparse.coo_matrix.
 
 The code is for generating a matting Laplacian matrix in paper: A Closed-Form Solution to Natural Image Matting.
